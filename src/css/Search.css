@@ -1,0 +1,11 @@
+.search{
+    font-family: 'Jua', sans-serif;
+    font-size: 20px;
+    height: 1000px;
+    background: -webkit-linear-gradient( rgb(253, 255, 242), rgb(165, 165, 165));
+    background: linear-gradient(rgb(253, 255, 242), rgb(165, 165, 165));  
+
+}
+.searchText{
+    padding: 50px;
+}

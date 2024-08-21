@@ -1,0 +1,20 @@
+.checkoutresult{
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+    font-family: 'Jua', sans-serif;
+    font-size: 20px;
+}
+
+.checkoutresult_title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 2px solid lightskyblue;
+    align-items: center;
+}
+.checkoutresult_cart{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

@@ -1,0 +1,31 @@
+.checkout {
+    display: block;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+    font-family: 'Jua', sans-serif;
+    font-size: 20px;
+}
+
+.checkout_title {
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid rgba(193, 193, 193, 0.816);
+}
+
+.checkout_cart{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.checkout_ad {
+    width:200px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+
+}
+.checkout_bottom_ad {
+    margin-top: 100px;
+    height: 300px;
+}

@@ -1,0 +1,25 @@
+.history{
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+    font-family: 'Jua', sans-serif;
+    font-size: 20px;
+    background: -webkit-linear-gradient( rgb(246, 228, 213), rgb(255, 157, 73));
+    background: linear-gradient( rgb(246, 228, 213), rgb(255, 157, 73));
+}
+
+.history_title {
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid rgba(193, 193, 193, 0.816);
+}
+.history_cart{
+    width:800px;
+    display: inline-block;
+    margin-right: 2px;
+}

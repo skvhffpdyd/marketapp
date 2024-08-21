@@ -1,0 +1,40 @@
+.historyProduct {
+    padding: 20px;
+    margin-right: 10px;
+    background-color: #ffe9b7;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Jua', sans-serif;
+    font-size: 20px;
+}
+
+
+.historyProduct_info {
+    padding-left: 20px;
+}
+
+.historyProduct_price{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.historyProduct_image {
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+
+.historyProduct_title {
+    font-size: 17px;
+    font-weight: 800;
+}
+
+.historyProduct_rating{
+    display:flex;
+    margin-bottom: 10px;
+}
+.payProduct_date {
+    width: 400px;
+    margin-top: 5px;
+}

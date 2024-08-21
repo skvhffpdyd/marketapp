@@ -1,0 +1,88 @@
+.detailProduct{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.detailProduct_info{
+    background-color: bisque;
+    padding: 20px;
+}
+.sendbutton{
+    background-color: rgb(255, 157, 29);
+    border: 0;
+    outline: 0;
+    transition: all 0.2s ;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+.sendbutton:hover{
+    background-color: rgb(195, 122, 27);
+    border: 0;
+    outline: 0;
+}
+
+.detailProduct_image {
+    object-fit: contain;
+    width : 400px;
+    height: 350px;
+}
+.detailProduct_title {
+    font-size: 25px;
+    font-weight: 800;
+}
+.detailProduct_rating{
+    display: flex;
+}
+.detailProduct_category{
+    font-size: 15px;
+    margin: 5px;
+}
+
+.detailProduct_button {
+    margin-top: 20px;
+    background-color: #FFAA40;
+    box-shadow: 0px 3px 0px 0px #A66615;
+    padding: 3px;
+    display: block;
+    position: relative;
+    float: left;
+    width: 150px;
+    padding: 0;
+    margin: 10px 20px 10px 0;
+    text-align: center;
+    line-height: 25px;
+    color: #FFF;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    transition: all 0.2s ;
+    font-family: 'Jua', sans-serif;
+    font-size: 20px;
+}
+
+.detailProduct_button:hover {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    box-shadow: 0px 0px 0px 0px #A66615;
+}
+
+.star{
+    width : 30px;
+    height: 30px;
+  }
+  .pm{
+    width : 10px;
+    height: 10px;
+  }
+  .pmbutton{
+    background-color: rgb(255, 157, 29);
+    border: 0;
+    outline: 0;
+    transition: all 0.2s ;
+    border-radius: 3px;
+}
+.pmbutton:hover{
+    background-color: rgb(195, 122, 27);
+    border: 0;
+    outline: 0;
+}
